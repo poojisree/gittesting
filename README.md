@@ -1,2 +1,2 @@
-# gittesting
+# Git testing
 GitHub practice 
